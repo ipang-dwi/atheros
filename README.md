@@ -1,5 +1,5 @@
 # atheros
-Atheros kext for Mac OSX High Sierra, Mojave and Catalina
+Atheros kext for Mac OSX High Sierra, Mojave and .
 
 # gisjogja
 
