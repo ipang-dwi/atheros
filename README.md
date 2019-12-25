@@ -22,6 +22,7 @@ How to :
 
 - AR9485 download here [https://github.com/ipang-dwi/atheros/releases/tag/1.0]
 - AR9485 download here [https://github.com/ipang-dwi/atheros/releases/tag/ar9285]
+
 Tested on :
 - High Sierra 10.13.6
 - Mojave 10.14.6
