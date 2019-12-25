@@ -1,8 +1,6 @@
 # atheros
 Atheros kext for Mac OSX High Sierra, Mojave and .
 
-# gisjogja
-
 <img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
 
 > Atheros kext for Mac OSX High Sierra, Mojave and Catalina
@@ -21,6 +19,8 @@ Supported devices list :
 
 How to :
 > Just use your favourite kext injector tool, like kext utility, kext wizard or hackintool. If you use clover latest version, you just need to put it on clover/kext/other folder. 
+
+- AR9485 (download here[https://github.com/ipang-dwi/atheros/releases/tag/1.0])
 
 Tested on :
 - High Sierra 10.13.6
