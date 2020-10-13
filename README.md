@@ -26,7 +26,7 @@ How to :
 Tested on :
 - High Sierra 10.13.1-10.13.6
 - Mojave 10.14.1-10.14.6
-- Catalina 10.15.1-10.15.4
+- Catalina 10.15.1-10.15.7
 
 Feel free to reach me on :
 - https://www.firstplato.com
